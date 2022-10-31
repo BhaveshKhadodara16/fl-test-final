@@ -2,10 +2,10 @@
 Contributors: dots,kakshak,dency,jariwalasagar
 Tags: cart fee, category, e-commerce, Extra Charge, woocommerce extra cost, extra fee, minimum order,surcharge,woocommerce extra fee, woocommerce additional fees,woocommerce checkout plugin,woocommerce conditional shipping fees,woocommerce conditional, woocommerce shipping classes fees, woocommerce fees, woocommerce add shipping method fees, woocommerce extra cost, woocommerce additional cost, Woocommerce advanced fees
 Requires at least: 5.0
-Tested up to: 6.0.2
-WC tested up to: 7.0.0
+Tested up to: 6.0.1
+WC tested up to: 6.8.2
 Requires PHP: 5.7
-Stable tag: 3.9.0
+Stable tag: 3.8.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,15 +67,6 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 2. This is the second screen shot
 
 == Changelog ==
-= 3.9.0 - 18-10-2022 =
-* New - Add attribute specific fee feature
-* Enhancement – Update UI changes
-* Enhancement – Minor bug fixes 
-* Enhancement - Add variation ID in the search rule section
-* Enhancement - Include category and tag which are added in the private product
-* Update – Compatible with WooCommerce 7.0.0
-* Update – Compatible with WordPress 6.0.2
-
 = 3.8.4 - 30-08-2022 =
 * Update – Compatible with WooCommerce 6.8.2
 * Update – Compatible with WordPress 6.0.1
